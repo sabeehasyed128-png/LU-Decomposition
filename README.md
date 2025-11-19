@@ -17,7 +17,7 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 ```
 '''
-Program to find the L and U matrix using LU dec.
+Program to find the L and U matrix using LU decomposition.
 Developed by: SABEEHA PARVEEN.K
 RegisterNumber: 25016301
 ''' 
